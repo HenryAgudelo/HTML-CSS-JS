@@ -8,8 +8,8 @@
                                         /* ENCABEZADO DE PÁGINA */
                                         
                                         header {
-                                            border: 3px blue solid;
-                                            background-color: cornflowerblue;
+                                            border: 3px rgb(169, 233, 126) solid;
+                                            background-color: rgb(188, 241, 65);
                                             padding: 20px 50px;
                                             margin: 0;
                                             width: auto;
@@ -49,7 +49,7 @@
                                         }
                                         
                                         .home-content a:hover {
-                                            background-color: rgb(156, 222, 248);
+                                            background-color: rgb(212, 247, 181);
                                         }
                                         
                                         .home:hover .home-content {
@@ -57,12 +57,12 @@
                                         }
                                         
                                         .home:hover .dropbtn {
-                                            background-color: #7e9cd4;
+                                            background-color: #33f70c;
                                         }
                                         
                                         main {
                                             /* border: 3px red solid; */
-                                            background-color: midnightblue;
+                                            background-color: rgb(14, 117, 66);
                                             color: cornsilk;
                                             background-color: rgb(238, 230, 230);
                                             width: 100%;
@@ -86,7 +86,7 @@
                                         
                                         article {
                                             /* border: 2px green solid; */
-                                            background: rgb(24, 45, 238);
+                                            background: rgb(84, 245, 70);
                                         }
                                         
                                         section {
@@ -138,7 +138,7 @@
                                         
                                         footer {
                                             /* border: 3px solid red; */
-                                            background-color: midnightblue;
+                                            background-color: rgb(209, 211, 101);
                                             color: cornsilk;
                                             clear: left;
                                             padding: 10px;
